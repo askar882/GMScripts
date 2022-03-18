@@ -1,0 +1,9 @@
+[submodule "Unipus"]
+	path = Unipus
+	url = git@github.com:askar882/Unipus
+[submodule "TCNotification"]
+	path = TCNotification
+	url = git@github.com:askar882/TCNotification
+[submodule "DMHYMyheartsiteTorrentDownloader"]
+	path = DMHYMyheartsiteTorrentDownloader
+	url = git@github.com:askar882/DMHYMyheartsiteTorrentDownloader
